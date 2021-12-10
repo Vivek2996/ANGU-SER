@@ -7,7 +7,7 @@ import { SearchFilterPipe } from './search-filter.pipe';
 @NgModule({
   declarations: [
     AppComponent,
-    SearchFilterPipe
+    SearchFilterPipe,
   ],
   imports: [
     BrowserModule
